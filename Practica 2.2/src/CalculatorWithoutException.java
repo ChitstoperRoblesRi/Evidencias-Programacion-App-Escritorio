@@ -16,7 +16,7 @@ public class CalculatorWithoutException {
             return;
         }
         
-        System.out.print("Ingrese el operador (+, -, ., /): ");
+        System.out.print("Ingrese el operador (+, -, *, /): ");
         String operator = scanner.nextLine();
         
         System.out.print("Ingrese el segundo operando: ");
@@ -46,14 +46,14 @@ public class CalculatorWithoutException {
             case '-': 
                 result = operand1 - operand2;
                 break;
-            case '.': 
+            case '*': 
                 result = operand1 * operand2;
                 break;
             case '/': 
                 result = operand1 / operand2;
                 break;
             default:
-                System.out.println("\nError: Operador no válido. Use +, -, ., /");
+                System.out.println("\nError: Operador no válido. Use +, -, *, /");
                 scanner.close();
                 return;
         }

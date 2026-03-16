@@ -1,0 +1,30 @@
+[
+  {
+    "peso": 10,
+    "altura": 1.9,
+    "imc": 2.770083102493075,
+    "clasificacion": "Bajo peso",
+    "fecha": "15/3/2026, 19:36:43"
+  },
+  {
+    "peso": 50,
+    "altura": 1.2,
+    "imc": 34.72222222222222,
+    "clasificacion": "Obesidad",
+    "fecha": "15/3/2026, 19:36:23"
+  },
+  {
+    "peso": 60,
+    "altura": 1.9,
+    "imc": 16.62049861495845,
+    "clasificacion": "Bajo peso",
+    "fecha": "15/3/2026, 19:29:08"
+  },
+  {
+    "peso": 70,
+    "altura": 1.78,
+    "imc": 22.093170054286073,
+    "clasificacion": "Normal",
+    "fecha": "15/3/2026, 19:28:17"
+  }
+]

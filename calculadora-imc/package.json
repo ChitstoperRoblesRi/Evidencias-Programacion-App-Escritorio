@@ -1,0 +1,13 @@
+{
+  "name": "calculadora-imc",
+  "version": "1.0.0",
+  "description": "App de escritorio para calcular IMC",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "electron": "^28.0.0"
+  }
+}
